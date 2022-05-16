@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="WZMobileUser" Class="WZMobileUserDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=10.3.0.9,16279;Initial Catalog=WZMobileUser;User ID=PlatformID" SettingsObjectName="ConcurrencyTEST.Properties.Settings" SettingsPropertyName="WZMobileUserConnectionString" Provider="System.Data.SqlClient" />
+  <Function Name="dbo.USP_MAPI_RegisterGameAccountByPINID" Method="USP_MAPI_RegisterGameAccountByPINID">
+    <Parameter Name="ServiceCode" Parameter="serviceCode" Type="System.String" DbType="Char(6)" />
+    <Parameter Name="PINID" Parameter="pINID" Type="System.String" DbType="VarChar(20)" />
+    <Parameter Name="IP" Parameter="iP" Type="System.String" DbType="VarChar(39)" />
+  </Function>
+</Database>

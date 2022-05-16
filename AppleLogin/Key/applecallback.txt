@@ -1,0 +1,6 @@
+https://alpha-kr-mapi.webzen.com/v2/account/appleid/callback
+https://kr-mapi.webzen.com/v2/account/appleid/callback
+
+
+https://alpha-global-mapi.webzen.com/v2/account/appleid/callback
+https://global-mapi.webzen.com/v2/account/appleid/callback
